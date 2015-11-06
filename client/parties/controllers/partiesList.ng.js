@@ -1,5 +1,5 @@
 angular.module("socially").controller("PartiesListCtrl", function ($scope, $meteor) {
-  $scope.parties = $meteor.collection(Partiesssss);
+  $scope.parties = $meteor.collection(Parties);
 
   $scope.vm = {};
 
