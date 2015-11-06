@@ -1,0 +1,1 @@
+Partiesssss = new Mongo.Collection("partiesssss");
